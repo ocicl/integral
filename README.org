@@ -1,0 +1,10 @@
+* integral
+
+[OBSOLETE] Use Mito instead.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/integral.git   |
+| commit  | 5fdf506  |
+| systems | integral |
+|---------+-------------------------------------------|
+
